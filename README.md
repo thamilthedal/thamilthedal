@@ -16,7 +16,7 @@ I love programming for,
 - Property generation for Water through IAPWS module for ANSYS Cases as Journal files
 - Monitor Residual for simulations running in HPC through Python
 - What needs to be done?
-  - Automating 2D Axisymmetric Meshes for Heated Pipe case through BlockMeshDict and Python
+  - Automating 2D Axisymmetric Meshes for Heated Pipe case through BlockMeshDict and Python - DONE
   - FoamMeshToFluent2D() in Python
   - FoamMeshToFluent3D() in Python
   - Property generation for other materials through REFPROP
