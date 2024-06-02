@@ -17,7 +17,7 @@ I love programming for,
 - Monitor Residual for simulations running in HPC through Python
 - What needs to be done?
   - Automating 2D Axisymmetric Meshes for Heated Pipe case through BlockMeshDict and Python - DONE
-  - FoamMeshToFluent2D() in Python
+  - FoamMeshToFluent2D() in  - DONE
   - FoamMeshToFluent3D() in Python
   - Property generation for other materials through REFPROP
   - Full Automation of Entire CFD Process in one script
