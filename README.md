@@ -19,5 +19,5 @@ I love programming for,
   - Automating 2D Axisymmetric Meshes for Heated Pipe case through BlockMeshDict and Python - DONE
   - FoamMeshToFluent2D() in  - DONE
   - FoamMeshToFluent3D() in Python
-  - Property generation for other materials through REFPROP
+  - Property generation for other materials through REFPROP - Using CoolProp - DONE
   - Full Automation of Entire CFD Process in one script
