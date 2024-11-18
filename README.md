@@ -20,4 +20,4 @@ I love programming for,
   - FoamMeshToFluent2D() in  - DONE
   - FoamMeshToFluent3D() in Python
   - Property generation for other materials through REFPROP - Using CoolProp - DONE
-  - Full Automation of Entire CFD Process in one script
+  - Full Automation of Entire CFD Process in one script - DONE
