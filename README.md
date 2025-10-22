@@ -10,7 +10,7 @@ I love programming for,
 
 ## Currently Working on
 - Building a journal file from ANSYS Fluent case file for easier automation of cases within supercritical CLI
-- **foamMeshToFluent3D**__ and optimize it to run faster than in-built OpenFOAM converter
+- **_foamMeshToFluent3D_** and optimize it to run faster than in-built OpenFOAM converter
 - parametric study in supercritical CLI for batching multiple cases
 
 ## Previously Worked on
