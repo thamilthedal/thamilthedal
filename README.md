@@ -23,3 +23,7 @@ I love programming for,
 - **_residual_HPC_**: Simultaneously monitor residuals for multiple ANSYS Fluent running in ROCKS HPC.
 - **_post_CLI_**: Postprocessing CLI tool based on pyFluent that batch postprocesses all files inside a target folder based on a template settings from JSON
 - **_foamToFluent2D_**: Mesh conversion tool for converting all structured 2.5D meshes in OpenFOAM into 2D meshes for ANSYS Fluent (polyMesh to .msh)
+
+## Publications
+- Thamilmani Murugan, Amit Agrawal, Sandip K. Saha; Proposal of a turbulent Prandtl number model for predicting heat transfer deterioration in supercritical flows. Physics of Fluids 1 September 2025; 37 (9): 095115. https://doi.org/10.1063/5.0284649
+- Murugan, T., Raj, A. K., Agrawal, A., & Saha, S. K. (2023). Study on Convective Heat Transfer of Supercritical Water in Annular Square Channel. Heat Transfer Engineering, 44(20), 1847–1863. https://doi.org/10.1080/01457632.2022.2162012
