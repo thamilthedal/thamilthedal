@@ -9,6 +9,7 @@ I love programming for,
 - Works on ANSYS Fluent, Python, C, C++
 
 ## Currently Working on
+- Supercritical CLI has to be migrated to OpenHPC Cluster from ROCKS.
 - Building a journal file from ANSYS Fluent case file for easier automation of cases within supercritical CLI
 - **_foamMeshToFluent3D_** and optimize it to run faster than in-built OpenFOAM converter
 - parametric study in supercritical CLI for batching multiple cases
