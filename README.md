@@ -9,12 +9,12 @@ I love programming for,
 - Works on ANSYS Fluent, Python, C, C++
 
 ## Currently Working on
-- Supercritical CLI has to be migrated to OpenHPC Cluster from ROCKS.
 - Building a journal file from ANSYS Fluent case file for easier automation of cases within supercritical CLI
 - **_foamMeshToFluent3D_** and optimize it to run faster than in-built OpenFOAM converter
 - parametric study in supercritical CLI for batching multiple cases
 
 ## Previously Worked on
+- Supercritical CLI migrated to OpenHPC Cluster from ROCKS.
 - **_supercritical_CLI_**: Fully automated CLI based ANSYS Fluent Workflow for simulating supercritical heat transfer through pipe
     - Meshing done in OpenFOAM Blockmesh
     - Conversion to 2D by own-code base (foamToFluent2D)
