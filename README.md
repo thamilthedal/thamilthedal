@@ -12,7 +12,8 @@ I love programming for,
 ## Currently Working on
 - Building a journal file from ANSYS Fluent case file for easier automation of cases within supercritical CLI
 - **_foamMeshToFluent3D_** and optimize it to run faster than in-built OpenFOAM converter
-- parametric study in supercritical CLI for batching multiple cases
+- parametric study in supercritical CLI for batching multiple cases.
+- Learning to work on CHAPSim to run DNS on supercritical heat transfer.
 
 ## Previously Worked on
 - Supercritical CLI migrated to OpenHPC Cluster from ROCKS.
