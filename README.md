@@ -7,6 +7,7 @@ I love programming for,
 - Postprocessing and Data Visualization
 - Automating my workflows
 - Works on ANSYS Fluent, Python, C, C++
+- Fun!
 
 ## Currently Working on
 - Building a journal file from ANSYS Fluent case file for easier automation of cases within supercritical CLI
