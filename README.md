@@ -26,7 +26,7 @@ I love programming for,
 - **_foamToFluent2D_**: Mesh conversion tool for converting all structured 2.5D meshes in OpenFOAM into 2D meshes for ANSYS Fluent (polyMesh to .msh)
 
 ## Publications
-- Thamilmani Murugan, Amit Agrawal, Sandip K. Saha; Proposal of a turbulent Prandtl number model for predicting heat transfer deterioration in supercritical flows. Physics of Fluids 1 September 2025; 37 (9): 095115. https://doi.org/10.1063/5.0284649
-- Murugan, T., Raj, A. K., Agrawal, A., & Saha, S. K. (2023). Study on Convective Heat Transfer of Supercritical Water in Annular Square Channel. Heat Transfer Engineering, 44(20), 1847–1863. https://doi.org/10.1080/01457632.2022.2162012
+- Thamilmani Murugan, Amit Agrawal, Sandip K. Saha, "Proposal of a turbulent Prandtl number model for predicting heat transfer deterioration in supercritical flows", _Physics of Fluids_, vol. 37, no. 9, September 2025, https://doi.org/10.1063/5.0284649.
+- Murugan, T., Raj, A. K., Agrawal, A., & Saha, S. K., "Study on Convective Heat Transfer of Supercritical Water in Annular Square Channel", _Heat Transfer Engineering_, vol. 44, no. 20, pp. 1847–1863, 2023, https://doi.org/10.1080/01457632.2022.2162012.
 
 \#Turbulence \#CFD \#Supercritical #Heat-transfer #Aerodynamics
